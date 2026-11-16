@@ -1,0 +1,5 @@
+{
+  "name": "wood-pigeon-claude-mod",
+  "owner": { "name": "bwoybcn" },
+  "plugins": [{ "name": "wood-pigeon", "source": "./" }]
+}
